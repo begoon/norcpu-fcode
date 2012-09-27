@@ -9,6 +9,6 @@ This project has a continuation in [NORCPU Python][] and [NORCPU Ruby][] project
 
 [F-CODE][] which used as a low-level assembler is put in a separate project.
 
-[NORCPU Python]: https://github.com/begoon/norcpu-ruby
-[NORCPU Ruby]: https://github.com/begoon/norcpu
+[NORCPU Python]: https://github.com/begoon/norcpu
+[NORCPU Ruby]: https://github.com/begoon/norcpu-ruby
 [F-CODE]: https://github.com/begoon/fcode
